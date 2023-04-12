@@ -1,0 +1,12 @@
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/bin/Debug/net6.0/ApplicationCore.deps.json
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/bin/Debug/net6.0/ApplicationCore.dll
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/bin/Debug/net6.0/ApplicationCore.pdb
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/obj/Debug/net6.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/obj/Debug/net6.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/obj/Debug/net6.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/obj/Debug/net6.0/ApplicationCore.AssemblyInfo.cs
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/obj/Debug/net6.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/obj/Debug/net6.0/ApplicationCore.dll
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/obj/Debug/net6.0/refint/ApplicationCore.dll
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/obj/Debug/net6.0/ApplicationCore.pdb
+/Users/andersonchang/Projects/DapperTutorial/ApplicationCore/obj/Debug/net6.0/ref/ApplicationCore.dll
